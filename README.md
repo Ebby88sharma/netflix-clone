@@ -4,8 +4,6 @@
 ## -Typescript
 ## -tailwindcss
 ## -Firebase
-
-# [Sherif Zaher](https://www.facebook.com/sherifashraf404)
 ## ----------------------------
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
